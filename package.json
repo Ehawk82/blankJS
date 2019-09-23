@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ehawk82/blankJS/issues"
   },
-  "homepage": "https://github.com/Ehawk82/blankJS#readme"
+  "homepage": "https://github.com/Ehawk82/blankJS#readme",
+  "dependencies": {
+    "gscript2020": "git+https://github.com/Ehawk82/gScript2020.git"
+  }
 }
